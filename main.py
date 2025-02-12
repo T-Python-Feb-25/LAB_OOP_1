@@ -1,0 +1,22 @@
+from panda import Panda
+
+panda1 = Panda("bao bao",5,100,"black and white")
+panda2 = Panda("mei",3,85,"black and white")
+panda3 = Panda("jin", 6,110,"black and white")
+panda4 = Panda("bamboo",15,120,"black and white")
+
+print(f"the age of panda is {panda1.age}")
+print(panda1.get_weight())
+print(panda1.get_color())
+print("\n")
+print(f"the age of panda is {panda2.age}")
+print(panda2.get_weight())
+print(panda2.get_color())
+print("\n")
+print(f"the age of panda is {panda3.age}")
+print(panda3.get_weight())
+print(panda3.get_color())
+print("\n")
+print(f"the age of panda is {panda4.age}")
+print(panda4.get_weight())
+print(panda4.get_color())
