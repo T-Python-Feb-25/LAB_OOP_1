@@ -16,7 +16,7 @@ class Panda:
         return f"{self.name} weights {self.weight}."
 
     def add_habits(self):
-        return f"{self.name} is enjoying his leisure time {self.habits}."
+        return f"{self.name} is a {self.age}  enjoying his leisure time {self.habits}."
 
 
 '''
