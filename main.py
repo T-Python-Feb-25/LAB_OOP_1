@@ -1,0 +1,20 @@
+from panda import Panda
+
+panda1 = Panda("sara",12,88,93)
+panda2 = Panda("jack",15,78,87)
+panda3 = Panda("lora",9,60,80)
+panda4 = Panda("sam",10,76,82)
+
+print("the first pandas name:"+panda1.name)
+print("\n")
+print(panda1.eat("bamboo", 10))
+print(panda1.sleep(8))
+print("\n")
+print(panda2.eat("fruits", 5))
+print(panda2.sleep(9))
+print("\n")
+print(panda3.eat("sugarcane", 7))
+print(panda3.sleep(6))
+print("\n")
+print(panda4.eat("leaves", 8))
+print(panda4.sleep(10))
