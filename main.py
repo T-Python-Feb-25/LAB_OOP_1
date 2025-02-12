@@ -30,3 +30,9 @@ print(panda3.add_habits())
 
 print(panda4.weights())
 print(panda4.add_habits())
+
+'''
+this is the first Python lab in the Course
+Feb12, 2025
+By Mohammed Albushaier
+'''
