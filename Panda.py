@@ -17,3 +17,10 @@ class Panda:
 
     def add_habits(self):
         return f"{self.name} is enjoying his leisure time {self.habits}."
+
+
+'''
+this is the first Python lab in the Course
+Feb12, 2025
+By Mohammed Albushaier
+'''
