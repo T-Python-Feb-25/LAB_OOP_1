@@ -1,4 +1,4 @@
-class Panda():
+class Panda:
     def __init__(self,color:str,name:str,height:float,age:int):
         self.color=color
         self.name=name
